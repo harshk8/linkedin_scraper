@@ -1,4 +1,4 @@
-Django==1.11.23
+Django==1.11.28
 django-restframework==0.0.1
 pytz==2019.2
 selenium==3.141.0
